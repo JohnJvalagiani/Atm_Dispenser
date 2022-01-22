@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispenser", "Dispenser\Dispenser.csproj", "{4327A14C-49C7-4836-9CB3-ED192A007665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispenser_Tests", "Dispenser_Tests\Dispenser_Tests.csproj", "{20B92E8D-D1CA-4F61-B1A3-C00DE91F818B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4327A14C-49C7-4836-9CB3-ED192A007665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4327A14C-49C7-4836-9CB3-ED192A007665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4327A14C-49C7-4836-9CB3-ED192A007665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B92E8D-D1CA-4F61-B1A3-C00DE91F818B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B92E8D-D1CA-4F61-B1A3-C00DE91F818B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B92E8D-D1CA-4F61-B1A3-C00DE91F818B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B92E8D-D1CA-4F61-B1A3-C00DE91F818B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
